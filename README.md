@@ -7,7 +7,7 @@ Aspiring Data Science / AI-ML student building practical machine learning projec
 * Python
 * Pandas
 * NumPy
-* Scikit-learn
+* Skills
 * Flask
 * SQL
 * Machine Learning
@@ -22,7 +22,6 @@ Aspiring Data Science / AI-ML student building practical machine learning projec
 ## Currently Learning
 
 * Machine Learning
-* SQL
 * Flask
 * End-to-End Data Science Projects
 
